@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>918472410583-4hkb67r8n5qf1sgoeig8cnbqv5mjgg9t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.918472410583-4hkb67r8n5qf1sgoeig8cnbqv5mjgg9t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-XBNDfWIZV2KndSyfrdVbS9CI6OsL08I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>918472410583</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.stephandowless.UberTutorial</string>
+	<key>PROJECT_ID</key>
+	<string>ubertutorial-9c70b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ubertutorial-9c70b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:918472410583:ios:cbea139f1d6c38c7f37792</string>
+	<key>DATABASE_URL</key>
+	<string>https://ubertutorial-9c70b.firebaseio.com</string>
+</dict>
+</plist>
